@@ -135,6 +135,17 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "Harry",
+      "species": "Hippo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
